@@ -47,7 +47,4 @@ app.UseHttpsRedirection();
 // Map controller routes (connects /api/tasks → TasksController)
 app.MapControllers();
 
-// ------------------------------
-// 3️⃣ Run the application
-// ------------------------------
 app.Run();
