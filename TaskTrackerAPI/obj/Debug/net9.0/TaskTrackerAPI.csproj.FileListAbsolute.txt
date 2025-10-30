@@ -30,3 +30,4 @@ E:\UPS-TRAINING\simpleproj\TaskTrackerAPI\obj\Debug\net9.0\refint\TaskTrackerAPI
 E:\UPS-TRAINING\simpleproj\TaskTrackerAPI\obj\Debug\net9.0\TaskTrackerAPI.pdb
 E:\UPS-TRAINING\simpleproj\TaskTrackerAPI\obj\Debug\net9.0\TaskTrackerAPI.genruntimeconfig.cache
 E:\UPS-TRAINING\simpleproj\TaskTrackerAPI\obj\Debug\net9.0\ref\TaskTrackerAPI.dll
+E:\UPS-TRAINING\simpleproj\TaskTrackerAPI\obj\Debug\net9.0\TaskTrackerAPI.sourcelink.json
